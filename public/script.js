@@ -3,7 +3,7 @@ var browser = browser || chrome
 const server_endpoint = 'https://youtube-converter-jzqdy.ondigitalocean.app/'
 const download_endpoint = 'https://youtube-converter-jzqdy.ondigitalocean.app/download/'
 const get_info_endpoint = 'https://youtube-converter-jzqdy.ondigitalocean.app/getInfo/'
-const wakeup_dlp_endpoint = 'https://yt-dlp-back.herokuapp.com/wakeup'
+const wakeup_dlp_endpoint = 'https://yt-dlp-back-pmymh.ondigitalocean.app/wakeup'
 
 // locally
 // const server_endpoint = 'http://localhost:3000/'
